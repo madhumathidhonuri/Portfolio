@@ -319,6 +319,9 @@ form .btn2{
 nav .fa-regular{
     display:none;
 }
+nav .fa-solid{
+    display:none;
+}
 @media only screen and (max-width:600px){
     .header-text{
         margin-top: 25%;
